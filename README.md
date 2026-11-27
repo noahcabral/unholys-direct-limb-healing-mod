@@ -18,7 +18,7 @@ Use this mod or Unholy's Field Medical Mod for a given profile. Both handle limb
 
 ## Install
 
-Download the [patch builder](https://github.com/noahcabral/unholys-direct-limb-healing-mod/releases/latest) and extract it. The builder uses Python 3 and creates a ZIP from the Body Health System files already installed on your computer.
+Download the [patch builder](https://github.com/noahcabral/unholys-direct-limb-healing-mod/releases) and extract it. The builder uses Python 3 and creates a ZIP from the Body Health System files already installed on your computer.
 
 For GAMMA or Romeo, point the builder at the MO2 base directory, the separate Anomaly game folder and your profile. Use the exact profile name shown in MO2. Run this from the folder containing `patch.py`.
 
